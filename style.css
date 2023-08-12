@@ -1,0 +1,50 @@
+.logo-img {
+    display: block;
+    width: 15%;
+    height: 15%;
+    margin: 2% 40% 2% 40%;
+    align-items: center;
+
+}
+
+.oep {
+    width: 95%;
+    height: 8%;
+    display: inline;
+}
+
+.header {
+    background-color: #0000FF;
+}
+
+.colorful {
+    width: 100%;
+    height: 7px;
+}
+
+.colorful-img {
+    background-color: #0000FF;
+}
+
+.head {
+    background-color: #0000FF   ;
+}
+
+.botao {
+    display: inline;
+}
+
+.botao:hover {
+    cursor: pointer;
+}
+
+.produtos {
+    border: 2px solid #000000;
+    border-radius: 10px;
+    display: inline;
+}
+
+.produto-img {
+    width: 10%;
+    height: 10%;
+}
